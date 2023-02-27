@@ -1,6 +1,6 @@
 # Wolt backend assignment  
 ## Introduction
-The Wolt_assignment folder contains the code for the Wolt Backend assignment. The purpose of the assignment is to build a HTTP API that calculates the delivery fee based on request payload data and certain criteria described in the GitHub of Wolt assignment: <https://github.com/woltapp/engineering-summer-intern-2023#specification>.
+The API_server folder contains the code for the Wolt Backend assignment. The purpose of the assignment is to build a HTTP API that calculates the delivery fee based on request payload data and certain criteria described in the GitHub of Wolt assignment: <https://github.com/woltapp/engineering-summer-intern-2023#specification>.
 
 ## Requirements
 
@@ -12,7 +12,7 @@ The rest of the requirements can be installed from the requirements.txt file.
 
 ## Contents
 
-The Wolt_assignment folder that you unzipped contains the following objects:
+The API_server folder that you unzipped contains the following objects:
 1. main_code folder
     * server.py: The app for the HTTP API.
     * FeeCalculator.py: The function that calculates the delivery fee.
@@ -26,11 +26,11 @@ The Wolt_assignment folder that you unzipped contains the following objects:
 
 ## Usage
 
-1. Open the Wolt_assignment folder using the following command in your favorite terminal:
+1. Open the API_server folder using the following command in your favorite terminal:
 
-> cd path-to-folder\Wolt_assignment
+> cd path-to-folder\API_server
 
-Replace "path-to-folder" with the path to the Wolt_assignment folder on your machine.
+Replace "path-to-folder" with the path to the API_server folder on your machine.
 
 2. Install the required packages using the following command:
 
